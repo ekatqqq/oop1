@@ -52,7 +52,7 @@ namespace FirstOOP
         static void Main(string[] args)
         {
             Ticks t1 = Ticks.FromTimeOnTicks(36.4);
-            Ticks t2 = Ticks.FromTimeOnTicks(163.8);
+            Ticks t2 = Ticks.FromTimeOnTicks(54.6);
 
             Console.WriteLine("t1: " + t1);
             Console.WriteLine("t2: " + t2);
